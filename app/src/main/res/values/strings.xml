@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NoteKeeper</string>
+    <string name="title_label">Title:</string>
+    <string name="notes_label">Notes:</string>
+    <string name="last_updated_on">Last updated on:</string>
+    <string name="save">Save</string>
+    <string name="safe_space_for_your_thoughts">Safe space for your thoughts</string>
+    <string name="creative_thoughts">Creative Thoughts</string>
+    <string name="add_note">Add Note</string>
+</resources>
